@@ -1,0 +1,21 @@
+*, ::before, ::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Russo One, Arial;
+}
+
+.card {
+    box-shadow: 0 2px 10px rgb(67, 67, 67);
+}
+
+.result h4 {
+    font-size: 16px;
+}
